@@ -2,3 +2,10 @@ body
 {
     background-color: black;
 }
+div
+{
+    border: solid white;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
